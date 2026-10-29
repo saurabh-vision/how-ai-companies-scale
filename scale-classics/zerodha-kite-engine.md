@@ -127,3 +127,4 @@ Every incoming HTTP request queried the database to verify the user's session to
 ---
 
 *Authored by [@saurabh-vision](https://github.com/saurabh-vision) • Next Up: [Case Study 11: Discord — Scaling 4 Trillion Messages on ScyllaDB](#)*
+
