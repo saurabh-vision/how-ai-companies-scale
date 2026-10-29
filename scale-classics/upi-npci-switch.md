@@ -77,3 +77,4 @@ During Diwali shopping sales, millions of users hit UPI QR codes simultaneously,
 ---
 
 *Authored by [@saurabh-vision](https://github.com/saurabh-vision) • Next Up: [Case Study 09: IRCTC Tatkal Concurrency Engine](#)*
+

@@ -15,3 +15,4 @@ We welcome contributions from engineers, researchers, and system architects worl
 - **No Unverified Rumors**: All case studies must cite public engineering blogs, whitepapers, or conference talks.
 - **Dark-Mode First**: Mermaid diagrams must use clean contrast readable in both light and dark GitHub themes.
 - **Neutral & Educational**: Avoid marketing fluff; focus on raw distributed systems trade-offs and latency numbers.
+
