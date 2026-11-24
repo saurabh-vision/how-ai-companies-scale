@@ -1,19 +1,24 @@
 ---
-name: Request a Case Study
-about: Suggest an AI company or high-scale system architecture to analyze
-title: '[CASE STUDY REQUEST]: '
-labels: 'enhancement, case-study'
+name: Request or Propose a New Case Study
+about: Propose an AI company or high-concurrency system architecture to analyze
+title: '[PROPOSAL]: '
+labels: 'case-study, proposal'
 assignees: ''
 ---
 
-### Company / System Name
-<!-- e.g. Perplexity, DeepSeek, Zepto, Zerodha -->
+### System / Company Name
+<!-- e.g., vLLM Radix Attention, ClickHouse at Cloudflare, Canva WebAssembly Canvas -->
 
 ### Core Scaling Problem to Analyze
-<!-- What makes this system interesting? (e.g. latency, concurrency, database migration, GPU cluster) -->
+<!-- What makes this system interesting from a Staff Engineer perspective? (e.g., KV cache memory wall, 100M req/sec ingestion, GPU cluster orchestration) -->
 
-### Public References / Engineering Blog Links
-<!-- Links to official engineering blogs, papers, or conference talks -->
-- 
-- 
+### What Is Publicly Known vs. Inferred
+<!-- Summarize what the engineering team has publicly documented vs. what is an open industry technique -->
 
+### 5+ Candidate Primary Sources
+<!-- Provide at least 5 links to whitepapers, official engineering blogs, conference talks (re:Invent, QCon, GopherCon), or regulatory disclosures. Proposals without primary sources may be declined. -->
+1. 
+2. 
+3. 
+4. 
+5. 
